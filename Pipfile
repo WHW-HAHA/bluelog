@@ -8,7 +8,6 @@ coverage = "*"
 watchdog = "*"
 "flake8" = "*"
 faker = "*"
-
 [packages]
 flask = "*"
 flask-ckeditor = "*"
